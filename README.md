@@ -56,9 +56,9 @@ This tool is created by Nithin R (@thebinarybot)
 
 ## BuyMeABook
 
-If this tool has helped you in any form, please consider buying me a book here: https://www.buymeacoffee.com/thebinarybot
+If this tool has helped you in any form, please consider buying me a book here:
 
-Thanks :)
+<a href="https://www.buymeacoffee.com/thebinarybot" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Book" height="41" width="174"></a>
 
 ## License
 This project is licensed under the MIT License.
