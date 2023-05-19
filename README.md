@@ -56,7 +56,7 @@ This tool is created by Nithin R (@thebinarybot)
 
 ## Buy Me A Coffee
 
-If this tool has helped you in any form, please consider buying me a coffee:
+If this tool has helped you in any form, please consider buying me a coffee.
 
 <a href="https://www.buymeacoffee.com/thebinarybot" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="180"></a>
 
