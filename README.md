@@ -54,5 +54,10 @@ The word "ignore:" is removed from the corresponding lines where "api" is presen
 ## Author
 This tool is created by Nithin R (@thebinarybot)
 
+## BuyMeABook
+
+If this tool has helped you in any form, please consider buying me a book here: https://www.buymeacoffee.com/thebinarybot
+Thanks :)
+
 ## License
 This project is licensed under the MIT License.
