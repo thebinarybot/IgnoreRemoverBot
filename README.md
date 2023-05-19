@@ -57,6 +57,7 @@ This tool is created by Nithin R (@thebinarybot)
 ## BuyMeABook
 
 If this tool has helped you in any form, please consider buying me a book here: https://www.buymeacoffee.com/thebinarybot
+
 Thanks :)
 
 ## License
