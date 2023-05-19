@@ -16,7 +16,7 @@ IgnoreRemoverBot is a Python utility that removes the word "ignore:" from the li
    python ignore_remover.py path/to/your/file.yml
    ```
    
-Replace path/to/your/file.yml with the actual path to your YAML file.
+   **Replace path/to/your/file.yml with the actual path to your YAML file.**
 
 5. The utility will process the file, removing the "ignore:" label from the corresponding lines with "api" in the YAML file.
 
