@@ -54,11 +54,11 @@ The word "ignore:" is removed from the corresponding lines where "api" is presen
 ## Author
 This tool is created by Nithin R (@thebinarybot)
 
-## BuyMeABook
+## Buy Me A Coffee
 
-If this tool has helped you in any form, please consider buying me a book here:
+If this tool has helped you in any form, please consider buying me a coffee:
 
-<a href="https://www.buymeacoffee.com/thebinarybot" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Book" height="41" width="174"></a>
+<a href="https://www.buymeacoffee.com/thebinarybot" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="180"></a>
 
 ## License
 This project is licensed under the MIT License.
