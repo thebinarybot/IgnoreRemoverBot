@@ -13,7 +13,7 @@ IgnoreRemoverBot is a Python utility that removes the word "ignore:" from the li
 4. Run the following command to execute the utility:
 
    ```
-   python ignore_remover.py path/to/your/file.yml
+   python3 ignore_remover.py path/to/your/file.yml
    ```
    
    **Replace path/to/your/file.yml with the actual path to your YAML file.**
@@ -52,7 +52,7 @@ Will update the example.yml file to:
 The word "ignore:" is removed from the corresponding lines where "api" is present.
 
 ## Author
-This tool is created by @thebinarybot.
+This tool is created by Nithin R (@thebinarybot)
 
 ## License
 This project is licensed under the MIT License.
