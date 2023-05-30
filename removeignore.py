@@ -33,7 +33,7 @@ for i in range(len(lines)):
     line = lines[i]
     if 'api' in line and 'ignore:' in line:
         # Remove the word "ignore:" if it has a "/" after the ":"
-        lines[i] = re.sub(r'ignore:/', '', line)
+        lines[i] = re.sub(r'ignore:', '', line)
 
 # Save the modified content back to the file
 with open(file_path, 'w') as file:
